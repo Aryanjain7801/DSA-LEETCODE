@@ -18,7 +18,7 @@ class Solution {
                 if(row[i]==-1 || col[j]==-1){
                     matrix[i][j]=0;
                 }
-    }
-}
+            }
+        }
     }
 }
